@@ -8,10 +8,10 @@ TITLE = "Kaliwat Ni Bugoy";
 SPLIT = 5000;
 DB_SIZES = {
     "C": 0,
-    "F": 39,
-    "I": 145,
+    "F": 44,
+    "I": 163,
     "M": 4,
-    "N": 39,
+    "N": 41,
     "P": 0,
     "R": 0,
     "S": 0
